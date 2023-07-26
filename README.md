@@ -1,16 +1,15 @@
-# Proyecto final de prog. web
-Aplicación web para el inventario de una farmacia
--Presenta un crud para gestionar Productos, Categorias, Proveedores y Usuarios
--Visualiza codigos de barras y reportes de inventario
+# Aplicación web para el inventario de una farmacia ( proyecto final de prog. web)
 
-***IMPORTANTE***
-Datos para inicio de sesión:
+-Presenta un crud para gestionar Productos, Categorias, Proveedores y Usuarios.
+-Visualiza codigos de barras y reportes de inventario.
 
-Gerente:
+***Datos para inicio de sesión:***
+
+Gerente -
 user: admin
 password: 6240
 
-Empleado:
+Empleado -
 user: empleado1
 password:12345
 
