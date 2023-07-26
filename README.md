@@ -5,11 +5,9 @@
 
 ***Datos para inicio de sesión:***
 
-Gerente -
 user: admin -
 password: 6240
 
-Empleado -
 user: empleado1 -
 password: 12345
 
