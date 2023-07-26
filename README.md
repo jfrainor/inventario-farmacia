@@ -1,5 +1,5 @@
 
-Presenta un crud para gestionar Productos, Categorias, Proveedores y Usuarios.
+- Presenta un crud para gestionar Productos, Categorias, Proveedores y Usuarios.
 - Visualiza codigos de barras y reportes de inventario.
 
 ***Datos para inicio de sesión:***
